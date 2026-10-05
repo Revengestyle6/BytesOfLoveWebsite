@@ -179,8 +179,6 @@ const About = () => {
           <img className="border-4 border-custom-purple" src="credits/Mohammed.jpg" alt="Mohammed Picture" />
           <div className="credit-name">Mohammed Ali</div>
         </a>
-      </div>
-      <div className="credit-row">
         <a
           className="credit-cell"
           href="https://www.linkedin.com/in/josephcabezas/"
@@ -199,6 +197,8 @@ const About = () => {
           <div className="credit-name">Jonathan Mesa</div>
         </a>
 
+      </div>
+      <div className="credit-row">
         <a
           className="credit-cell"
           href="https://www.linkedin.com/company/open-source-club/mycompany/"
